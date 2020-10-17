@@ -10,7 +10,7 @@ namespace Personen
         {
             Console.WriteLine("Hello World! - Aufgabe: Personen");
 
-            string[] fileContent = System.IO.File.ReadAllLines("C:\\03_Coding\\02 Projects\\CS\\Personen\\persons.txt");
+            string[] fileContent = System.IO.File.ReadAllLines("C:\\03_Coding\\02 Projects\\C#\\Personen\\persons.txt");
 
             List<Person> people = new List<Person>();
 
@@ -55,7 +55,7 @@ namespace Personen
                 counter = counter + 1;
             }
 
-            System.IO.File.WriteAllLines("C:\\03_Coding\\02 Projects\\CS\\Personen\\persons1.txt", fileContent);
+            System.IO.File.WriteAllLines("C:\\03_Coding\\02 Projects\\C#\\Personen\\persons1.txt", fileContent);
 
         }
     }

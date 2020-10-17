@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\03_Coding\\02 Projects\\CS\\Personen\\Personen\\Personen.csproj",
+      "projectUniqueName": "C:\\03_Coding\\02 Projects\\C#\\Personen\\Personen\\Personen.csproj",
       "projectName": "Personen",
-      "projectPath": "C:\\03_Coding\\02 Projects\\CS\\Personen\\Personen\\Personen.csproj",
+      "projectPath": "C:\\03_Coding\\02 Projects\\C#\\Personen\\Personen\\Personen.csproj",
       "packagesPath": "C:\\Users\\DCV\\.nuget\\packages\\",
-      "outputPath": "C:\\03_Coding\\02 Projects\\CS\\Personen\\Personen\\obj\\",
+      "outputPath": "C:\\03_Coding\\02 Projects\\C#\\Personen\\Personen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DCV\\AppData\\Roaming\\NuGet\\NuGet.Config",
